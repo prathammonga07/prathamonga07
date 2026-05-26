@@ -1,5 +1,4 @@
 # prathamonga07
-About Me
 # Hi, I'm Pratham 👋
 
 🎯 I'm on a mission to break into the world of **Data Analytics & Machine Learning** — 
