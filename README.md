@@ -1,4 +1,3 @@
-# prathamonga07
 # Hi, I'm Pratham 👋
 
 🎯 I'm on a mission to break into the world of **Data Analytics & Machine Learning** — 
