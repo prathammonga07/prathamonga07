@@ -7,7 +7,7 @@ one dataset at a time.
 
 🔧 **My Stack:**
 - Languages: Python
-- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit,pdfplumber
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit,Pdfplumber
 - Tools: Jupyter, Git, VS Code
 
 📌 **What I'm working on:**
