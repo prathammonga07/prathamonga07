@@ -16,6 +16,6 @@ one dataset at a time.
 
 💡 I believe data tells a story — I'm here to learn how to read it.
 
-📫 Reach me at: 2024uc1221@mnit.ac.in
+📫 Reach me at: prathammongapy@gmail.com
 
 ⚡ *"Every expert was once a beginner."*
